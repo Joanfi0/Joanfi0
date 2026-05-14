@@ -7,8 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - 🧑‍💻 **Username:** @jorgeFilardi-alt
 - 👀 **Interests:** Programming, problem-solving, and building cool projects
 - 🌱 **Currently Learning:**  
-  - ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  - ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ - ![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 - 💡 **Favorite Topics:** Software engineering, web development, automation, and open source
 
 ## 📫 How to Reach Me
