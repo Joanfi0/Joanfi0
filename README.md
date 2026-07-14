@@ -27,16 +27,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 .... -->
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeFilardi-alt&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeFilardi-alt&layout=compact&hide_border=true&theme=radical" />
-</p>
-
-
----
-
 <!---
 jorgeFilardi-alt/jorgeFilardi-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
