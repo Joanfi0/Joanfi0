@@ -13,6 +13,8 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ## 📫 How to Reach Me
 
 - 📧 Email: [jorgeandresfs01@gmail.com](mailto:jorgeandresfs01@gmail.com)
+- Linkedln: [Jorge Filardi](www.linkedin.com/in/jorge-filardi)
+
 
 ## 🛠️ Technologies & Tools
 
