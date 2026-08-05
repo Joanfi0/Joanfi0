@@ -1,22 +1,22 @@
-# 👋 Hi, I’m Jorge Filardi
+# Hi, I’m Jorge Filardi
 
 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies.
 
-## 👨‍💻 About Me
+## About Me
 
-- 🧑‍💻 **Username:** @jorgeFilardi-alt
-- 👀 **Interests:** Programming, problem-solving, and building cool projects
-- 🌱 **Currently Learning:**  
+-  **Username:** @jorgeFilardi-alt
+-  **Interests:** Programming, problem-solving, and building cool projects
+-  **Currently Learning:**  
  - ![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-- 💡 **Favorite Topics:** Software engineering, web development, automation, and open source
+-  **Favorite Topics:** Software engineering, web development, automation, and open source
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - 📧 Email: [jorgeandresfs01@gmail.com](mailto:jorgeandresfs01@gmail.com)
 - Linkedln: https://www.linkedin.com/in/jorge-filardi
 
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
