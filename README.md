@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 -  **Interests:** Programming, problem-solving, and building cool projects
 -  **Currently Learning:**  
  - ![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
--  **Favorite Topics:** Software engineering, web development, automation, and open source
+-  **Favorite Topics:** Software engineering, web development, automation, and open source, Server side
 
 ## How to Reach Me
 
-- 📧 Email: [jorgeandresfs01@gmail.com](mailto:jorgeandresfs01@gmail.com)
+- Email: [jorgeandresfs01@gmail.com](mailto:jorgeandresfs01@gmail.com)
 - Linkedln: https://www.linkedin.com/in/jorge-filardi
 
 
