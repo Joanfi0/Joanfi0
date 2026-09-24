@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - **Currently Learning:**  
   - ![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 - **Favorite Topics:** Software engineering, web development, automation, open source, Server side
+- **Focus:** Backend development, Java, databases, software engineering, Linux servers, networking, Docker, virtualization, self-hosting, and homelab infrastructure
 
 ## How to Reach Me
 
