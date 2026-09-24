@@ -4,31 +4,41 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## About Me
 
--  **Username:** @jorgeFilardi-alt
--  **Interests:** Programming, problem-solving, and building cool projects
--  **Currently Learning:**  
- - ![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
--  **Favorite Topics:** Software engineering, web development, automation, and open source, Server side
+- **Username:** @jorgeFilardi-alt
+- **Interests:** Programming, problem-solving, and building cool projects
+- **Currently Learning:**  
+  - ![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- **Favorite Topics:** Software engineering, web development, automation, open source, Server side
 
 ## How to Reach Me
 
 - Email: [jorgeandresfs01@gmail.com](mailto:jorgeandresfs01@gmail.com)
-- Linkedln: https://www.linkedin.com/in/jorge-filardi
+- Linkedln: [https://www.linkedin.com/in/jorge-filardi](https://www.linkedin.com/in/jorge-filardi)
 
-
-##  Technologies & Tools
+## Technologies & Tools
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Rider](https://img.shields.io/badge/-Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-<!-- ## 🚀 Projects
+<!-- ## Projects
 
 .... -->
 
+<!---
+jorgeFilardi-alt/jorgeFilardi-alt is a special repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+## Profile Views--->
+
+![Profile views](https://komarev.com/ghpvc/?username=jorgeFilardi-alt&color=blueviolet&style=flat-square)
 <!---
 jorgeFilardi-alt/jorgeFilardi-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
